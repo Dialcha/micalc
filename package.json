@@ -1,0 +1,19 @@
+{
+  "name": "micalc",
+  "version": "1.0.0",
+  "description": "Laboratorio opcional de arqui sw",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DiegoTKD94/micalc.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DiegoTKD94/micalc/issues"
+  },
+  "homepage": "https://github.com/DiegoTKD94/micalc#readme"
+}
